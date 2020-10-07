@@ -229,6 +229,20 @@ section {
 
 /* end trainers section */
 
+
+/* start contact styles chart */
+
+.contact {
+    text-align: center;
+    background: #024e76;
+}
+
+.contact h2 {
+    color: #fce138;
+}
+
+/* end contact section */
+
 .section-title {
     font-size: 55px;
     color: #024e76;
