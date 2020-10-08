@@ -11,3 +11,5 @@ https://shanestewart4.github.io/run-buddy/Develop
 
 ## Contribution
 Made with ❤️ by Shane
+
+# Run Buddy Inc.
